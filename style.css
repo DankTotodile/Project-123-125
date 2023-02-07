@@ -1,0 +1,25 @@
+.header
+{
+    font-size: 35px;
+    font-family: cursive;
+    color: white;
+}
+body
+{
+    background-image: url("img.png");
+    background-size: cover;
+}
+#footer
+{
+    color: grey;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    margin: 0;
+    padding: 10px;
+}
+canvas
+{
+    border-radius: 30px;
+}
